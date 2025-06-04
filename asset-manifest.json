@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-notes-app/static/css/main.ee522b61.css",
+    "main.js": "/react-notes-app/static/js/main.f5d35fbb.js",
+    "index.html": "/react-notes-app/index.html",
+    "main.ee522b61.css.map": "/react-notes-app/static/css/main.ee522b61.css.map",
+    "main.f5d35fbb.js.map": "/react-notes-app/static/js/main.f5d35fbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee522b61.css",
+    "static/js/main.f5d35fbb.js"
+  ]
+}
